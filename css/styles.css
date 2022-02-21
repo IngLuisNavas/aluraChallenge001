@@ -1,0 +1,43 @@
+* {
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+}
+
+span {
+    color: brown;
+}
+
+.encrypt {
+    font-size: x-large;
+    text-align: center;
+    width: 160px;
+}
+
+input {
+    font-size: x-large;
+}
+
+.copy {
+    font-size: x-large;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 300%;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 150%;
+}
